@@ -2,5 +2,5 @@
 
 Couldn't wait for em to finish up,and i was bored,so i made one myself 🤐
 
-(dont blame me for the trash code quality.im just trying out things)
+(dont blame me for the trash code quality.im just trying out things🥲)
 
