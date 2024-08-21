@@ -37,7 +37,7 @@ export default function Component() {
             About
           </a>
           <a href="#" className="hover:underline font-['Roboto']">
-            Contact
+            Join Us
           </a>
         </nav>
         <div className="md:hidden">
@@ -118,14 +118,14 @@ export default function Component() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-primary-foreground text-primary p-6 rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg">
               <img
-                src="/placeholder.svg"
+                src="https://i.postimg.cc/05n6fT4v/dsraj.jpg"
                 alt="Mentor 1"
                 width={200}
                 height={200}
                 className="rounded-full mx-auto mb-4"
                 style={{ aspectRatio: "200/200", objectFit: "cover" }}
               />
-              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">John Doe</h3>
+              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Deepak S Raj</h3>
               <ul className="list-disc pl-4 space-y-2 font-['Roboto']">
                 <li>10+ years of experience in comics and illustration</li>
                 <li>Award-winning artist and writer</li>
@@ -134,14 +134,14 @@ export default function Component() {
             </div>
             <div className="bg-primary-foreground text-primary p-6 rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg">
               <img
-                src="/placeholder.svg"
+                src="https://i.postimg.cc/NFjjS0nc/manuks.jpg"
                 alt="Mentor 2"
                 width={200}
                 height={200}
                 className="rounded-full mx-auto mb-4"
                 style={{ aspectRatio: "200/200", objectFit: "cover" }}
               />
-              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Jane Smith</h3>
+              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Manu KS</h3>
               <ul className="list-disc pl-4 space-y-2 font-['Roboto']">
                 <li>8 years of experience in comic book publishing</li>
                 <li>Expertise in character design and world-building</li>
@@ -150,14 +150,14 @@ export default function Component() {
             </div>
             <div className="bg-primary-foreground text-primary p-6 rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg">
               <img
-                src="/placeholder.svg"
+                src="https://comixense.com/wp-content/uploads/2023/04/SanidAsifAli.jpg"
                 alt="Mentor 3"
                 width={200}
                 height={200}
                 className="rounded-full mx-auto mb-4"
                 style={{ aspectRatio: "200/200", objectFit: "cover" }}
               />
-              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Alex Kim</h3>
+              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Sanid Asif Ali</h3>
               <ul className="list-disc pl-4 space-y-2 font-['Roboto']">
                 <li>5 years of experience in digital art and animation</li>
                 <li>Skilled in visual storytelling and panel layout</li>
@@ -171,28 +171,28 @@ export default function Component() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-primary-foreground text-primary p-6 rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg">
               <img
-                src="/placeholder.svg"
+                src="https://cdn.inflact.com/media/419007714_3621464598171190_1077481700113473773_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-19%2F419007714_3621464598171190_1077481700113473773_n.jpg%3Fstp%3Ddst-jpg_s320x320%26_nc_ht%3Dinstagram.fbma6-1.fna.fbcdn.net%26_nc_cat%3D110%26_nc_ohc%3DTLGF2HTwSlQQ7kNvgHnMmvu%26edm%3DAOQ1c0wBAAAA%26ccb%3D7-5%26oh%3D00_AYAW9DO9F0KZLJ51uxjSFsTWmNHc8wA1UsXieDUZtMPIjQ%26oe%3D66CB8544%26_nc_sid%3D8b3546&time=1724230800&key=50b8e76fd18877f1149e0d4250e06b7e"
                 alt="Partner 1"
                 width={300}
                 height={200}
                 className="rounded-lg mx-auto mb-4"
                 style={{ aspectRatio: "300/200", objectFit: "cover" }}
               />
-              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Acme Comics</h3>
+              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Kerala Pop Con</h3>
               <p className="text-lg font-['Roboto']">
                 Acme Comics is a leading publisher of independent comics, supporting emerging artists and writers.
               </p>
             </div>
             <div className="bg-primary-foreground text-primary p-6 rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg">
               <img
-                src="/placeholder.svg"
+                src="https://cdn.inflact.com/media/417591015_337103202467884_5418357359045874033_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-19%2F417591015_337103202467884_5418357359045874033_n.jpg%3Fstp%3Ddst-jpg_s320x320%26_nc_ht%3Dinstagram.fcrk4-1.fna.fbcdn.net%26_nc_cat%3D104%26_nc_ohc%3D0BhS-jWssY8Q7kNvgGgH-LB%26edm%3DAOQ1c0wBAAAA%26ccb%3D7-5%26oh%3D00_AYDiEOGfyqRfWc1yZkf2MUz_Oed8fkJKkvGJCcrTPSm4OA%26oe%3D66CB818B%26_nc_sid%3D8b3546&time=1724230800&key=d542c71531d74f039392fc6ea43ddaa9"
                 alt="Partner 2"
                 width={300}
                 height={200}
                 className="rounded-lg mx-auto mb-4"
                 style={{ aspectRatio: "300/200", objectFit: "cover" }}
               />
-              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Pixel Studios</h3>
+              <h3 className="text-xl font-semibold mb-2 font-['Roboto']">Indycomicscommune</h3>
               <p className="text-lg font-['Roboto']">
                 Pixel Studios is a digital art and animation studio, collaborating with MuComics on various projects.
               </p>
@@ -206,10 +206,12 @@ export default function Component() {
             this big!
           </p>
           <div className="flex justify-center">
-            <Button className="bg-[#25d366] text-primary-foreground px-6 py-3 rounded-lg font-['Roboto'] hover:bg-[#25d366]/90">
-              <PhoneIcon className="h-6 w-6 mr-2" />
-              Join our WhatsApp community
-            </Button>
+          <Link href="https://chat.whatsapp.com/FZMG6N2iq9M2Ghqvq9Xbqy" passHref>
+  <Button className="bg-[#25d366] text-primary-foreground px-6 py-3 rounded-lg font-['Roboto'] hover:bg-[#25d366]/90">
+    <PhoneIcon className="h-6 w-6 mr-2" />
+    Join our WhatsApp community
+  </Button>
+</Link>
           </div>
         </section>
       </main>
